@@ -9,4 +9,6 @@ I am not sure if we will get the gem push rights, or if the original repos will 
 
 You may donate to [No Stomach For Cancer](https://www.justgiving.com/fundraising/inmemoryofmatthewjacobs) in his memory.
 
+# Alternatives
+
 In case you need a tool with this feature set that is currently maintained, I recommend https://github.com/makandra/memoized
